@@ -4,7 +4,7 @@ Computer Scientist
 
 I'm passionate bout the intersection of mathematics and technology.
 * 🌍  I'm based in Fortaleza, Ceará
-* 🧠  I'm learning Docker, Rust & Node.js
+* 🧠  I'm learning Docker, Go & Node.js
 
 ### Skills
 
