@@ -8,7 +8,7 @@ I'm passionate bout the intersection of mathematics and technology.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,docker,go,python,nodejs,java,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,docker,go,python,nodejs,java,quarkus&perline=5)](https://skillicons.dev)
 
 ### Socials
 
