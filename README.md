@@ -6,7 +6,7 @@ I love creating projects that allow me to have fun while exploring new concepts,
 
 ## Languages I like
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,python,zig)](https://skillicons.dev)
 
 ## Get In Touch
 
