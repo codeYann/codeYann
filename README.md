@@ -1,13 +1,28 @@
-# Hi, I'm Yan Rodrigues 👋🏾
+# Yan Rodrigues
 
-I'm passionate bout the intersection of mathematics and technology.
+I'm a developer with a strong passion for the intersection of mathematics and technology.
 
-I love creating projects that allow me to have fun while exploring new concepts, especially those involving low-level programming and areas beyond web development. Whether it's diving deep into algorithms, working with hardware, or experimenting with new technologies.
+I enjoy building projects that challenge me to think critically and creatively—especially those that involve optimization, algorithms, or areas beyond traditional web development. Whether it's diving into systems programming, exploring new languages, or working closer to hardware, I'm always eager to learn and experiment.
 
-## Languages I like
+## 🧠 Languages & Tools I Enjoy
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,python,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,ts,nodejs)](https://skillicons.dev)
 
-## Get In Touch
+## 📫 Let's Connect
 
-<p align="left"> <a href="https://www.github.com/codeYann" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/codeyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://github.com/codeYann" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/codeyan" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture>
+  </a>
+</p>
