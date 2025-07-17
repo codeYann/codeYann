@@ -2,7 +2,7 @@
 
 I'm a developer with a strong passion for the intersection of mathematics and technology.
 
-I enjoy building projects that challenge me to think critically and creatively—especially those that involve optimization, algorithms, or areas beyond traditional web development. Whether it's diving into systems programming, exploring new languages, or working closer to hardware, I'm always eager to learn and experiment.
+I enjoy building projects that challenge me to think critically and creatively especially those that involve optimization, algorithms, or areas beyond traditional web development. Whether it's diving into systems programming, exploring new languages, or working closer to hardware, I'm always eager to learn and experiment.
 
 ## 🧠 Languages & Tools I Enjoy
 
