@@ -1,23 +1,34 @@
-# Yan Rodrigues
+# Hi, I'm Yan Rodrigues 👋
 
-I'm a developer with a strong passion for the intersection of mathematics and technology.
+Backend Engineer specializing in scalable, high-performance distributed systems
+with a focus on system efficiency, API design, and microservices.
 
-I enjoy building projects that challenge me to think critically and creatively especially those that involve optimization, algorithms, or areas beyond traditional web development. Whether it's diving into systems programming, exploring new languages, or working closer to hardware, I'm always eager to learn and experiment.
+I'm drawn to problems that demand rigorous thinking: concurrency, fault tolerance, event-driven architectures,
+and systems that hold under pressure at scale.
 
-## 🧠 Languages & Tools I Enjoy
+Hard problems, clean abstractions, systems that hold under pressure. That's the standard I hold myself to.
 
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,ts,nodejs)](https://skillicons.dev)
+---
+
+## 🛠 Core Stack
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,dotnet,docker)](https://skillicons.dev)
+
+---
+
+## ⚡ Fun facts
+
+- I have a genuine obsession with mathematics — optimization problems,
+  algorithms, and anything that lives at the intersection of math and
+  computer science
+- I enjoy going low: understanding how things work closer to the metal,
+  from memory management to OS-level behavior, even if my day job lives
+  higher up the stack
+---
 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/codeYann" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
   <a href="https://www.linkedin.com/in/codeyan" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
